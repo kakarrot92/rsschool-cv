@@ -21,4 +21,14 @@ Therefore, I decided to go with coding. When i found out what is behind the hood
 ### Code Examples
 It's not much but it's my own work:
 - https://github.com/kakarrot92/Portfolio
+
+### Experience
+I do not have any working experience but i worked on my personal projects. You can check it out on my GitHub.
+   
+### Education
+- High School: "Rade Metalac".
+ 
+### Foreign Languages
+- **English (C1)**, have been working as an Online English teacher for couple of months.
+
  
